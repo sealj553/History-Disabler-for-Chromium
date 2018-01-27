@@ -16,9 +16,6 @@
         "open_in_tab": false
     },
 	"permissions": [
-		"browsingData",
-		"history",
-		"downloads",
-		"storage"
+		"history"
 	]
 }
